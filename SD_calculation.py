@@ -3,7 +3,7 @@ from arcpy import env
 from arcpy.sa import *
 
 # Set the workspace environment
-env.workspace = "C:/path/to/your/workspace"
+env.workspace = "C:/data"
 
 # Input shapefiles
 point_shapefile = "project_locations.shp"  # Shapefile with points representing project locations
