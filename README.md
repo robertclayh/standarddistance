@@ -2,6 +2,7 @@
 Presented is an ArcPy script to generate standard distances for project locations by federal entity and calculate the concentration of these locations standardized by the federal entity area. Used in the [Mapping of international cooperation projects and actions by subnational governments in Mexico](https://www.undp.org/es/mexico/publicaciones/mapeo-de-proyectos-y-acciones-de-cooperacion-internacional-de-gobiernos-subnacionales-en-mexico) (Mapeo de Proyectos y Acciones de Cooperación Internacional de Gobiernos subnacionales en México) published by UNDP and AMEXCID.
 ![Map](RCHarris_map.jpg)
 ## Translation of map
+### Title
 > Concentration of discrete locations of international cooperation projects by subnational governments in Mexico
 ### Legend and References
 > * Locations with defined coverage
